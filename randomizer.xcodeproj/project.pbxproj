@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		EF7A3B0F255E2EA6002D9150 /* randomizer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = randomizer; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF7A3B12255E2EA6002D9150 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EF7A3B40255F4F66002D9150 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		EF7A3B43255F5050002D9150 /* program.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = program.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,8 @@
 		EF7A3B06255E2EA6002D9150 = {
 			isa = PBXGroup;
 			children = (
+				EF7A3B40255F4F66002D9150 /* README.md */,
+				EF7A3B43255F5050002D9150 /* program.png */,
 				EF7A3B11255E2EA6002D9150 /* randomizer */,
 				EF7A3B10255E2EA6002D9150 /* Products */,
 			);
